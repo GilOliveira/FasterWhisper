@@ -10,8 +10,8 @@
   "dependencies": [
   ],
   "requirements": [
-    "wyoming-faster-whisper==0.0.3"
+    "wyoming-faster-whisper>=1,<2"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "iot_class": "calculated"
 }
